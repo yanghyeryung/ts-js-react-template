@@ -4,6 +4,7 @@
   "publisher": "yanghyeryung",
   "description": "",
   "version": "0.0.1",
+  "icon": "images/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/yanghyeryung/ts-js-react-template.git"
